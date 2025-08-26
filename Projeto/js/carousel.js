@@ -26,8 +26,7 @@ class Carousel {
         } else {
             //"Method Start need a Array Variable.";//
             throw "O método start precisa receber um array válido."
-            // throw "Method Start need a Array Variable.";
-            throw "O método Start precisa receber um array válido."
+            
         }
     }
 
